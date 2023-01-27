@@ -3,7 +3,7 @@
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
-<span><img src="https://img.shields.io/badge/Canva-BBFFFF?logo=canva&logoColor=00C4CC" alt="Vite logo" title="C++" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Java-BBFFFF?logo=java&logoColor=00C4CC" alt="Vite logo" title="C++" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/TypeScript-FF6A6A?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>
 &nbsp;
